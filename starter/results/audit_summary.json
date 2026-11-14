@@ -1,0 +1,195 @@
+{
+  "labeler_note": "coherence và grounding: chấm thủ công bởi tác giả; metadata: kiểm tra tự động với PDF gốc",
+  "retrieval": {
+    "A|all": {
+      "n": 20,
+      "hit1": 14,
+      "hit3": 18,
+      "hit1_rate": 0.7,
+      "hit3_rate": 0.9
+    },
+    "A|dev": {
+      "n": 15,
+      "hit1": 10,
+      "hit3": 13,
+      "hit1_rate": 0.6667,
+      "hit3_rate": 0.8667
+    },
+    "A|test": {
+      "n": 5,
+      "hit1": 4,
+      "hit3": 5,
+      "hit1_rate": 0.8,
+      "hit3_rate": 1.0
+    },
+    "B|all": {
+      "n": 20,
+      "hit1": 15,
+      "hit3": 19,
+      "hit1_rate": 0.75,
+      "hit3_rate": 0.95
+    },
+    "B|dev": {
+      "n": 15,
+      "hit1": 11,
+      "hit3": 14,
+      "hit1_rate": 0.7333,
+      "hit3_rate": 0.9333
+    },
+    "B|test": {
+      "n": 5,
+      "hit1": 4,
+      "hit3": 5,
+      "hit1_rate": 0.8,
+      "hit3_rate": 1.0
+    },
+    "C|all": {
+      "n": 20,
+      "hit1": 15,
+      "hit3": 19,
+      "hit1_rate": 0.75,
+      "hit3_rate": 0.95
+    },
+    "C|dev": {
+      "n": 15,
+      "hit1": 11,
+      "hit3": 14,
+      "hit1_rate": 0.7333,
+      "hit3_rate": 0.9333
+    },
+    "C|test": {
+      "n": 5,
+      "hit1": 4,
+      "hit3": 5,
+      "hit1_rate": 0.8,
+      "hit3_rate": 1.0
+    }
+  },
+  "coherence": {
+    "A": {
+      "n": 10,
+      "scores": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mean_of_2": 0.9,
+      "count_0_1_2": [
+        1,
+        9,
+        0
+      ]
+    },
+    "B": {
+      "n": 10,
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "mean_of_2": 1.7,
+      "count_0_1_2": [
+        0,
+        3,
+        7
+      ]
+    },
+    "C": {
+      "n": 10,
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "mean_of_2": 1.7,
+      "count_0_1_2": [
+        0,
+        3,
+        7
+      ]
+    }
+  },
+  "grounding": {
+    "A": {
+      "n": 5,
+      "count_0_1_2": [
+        0,
+        0,
+        5
+      ],
+      "mean_of_2": 2
+    },
+    "B": {
+      "n": 5,
+      "count_0_1_2": [
+        0,
+        0,
+        5
+      ],
+      "mean_of_2": 2
+    },
+    "C": {
+      "n": 5,
+      "count_0_1_2": [
+        0,
+        0,
+        5
+      ],
+      "mean_of_2": 2
+    }
+  },
+  "metadata": {
+    "A": {
+      "correct_over_checked": "15/15",
+      "errors": [],
+      "filter_compliance_test": "N/A (không lọc)"
+    },
+    "B": {
+      "correct_over_checked": "15/15",
+      "errors": [],
+      "filter_compliance_test": "N/A (không lọc)"
+    },
+    "C": {
+      "correct_over_checked": "15/15",
+      "errors": [],
+      "filter_compliance_test": "1/1"
+    }
+  },
+  "resources": {
+    "A": {
+      "n_chunks": 287,
+      "total_chars": 133946,
+      "mean": 466.7,
+      "median": 500,
+      "embed_seconds": 7.23
+    },
+    "B": {
+      "n_chunks": 216,
+      "total_chars": 121488,
+      "mean": 562.4,
+      "median": 593.0,
+      "embed_seconds": 4.73
+    }
+  }
+}

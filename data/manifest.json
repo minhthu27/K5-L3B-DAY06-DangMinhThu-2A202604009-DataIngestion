@@ -1,0 +1,260 @@
+[
+  {
+    "source_id": "soc3e",
+    "title": "Introduction to Sociology 3e (OpenStax) - Chapters 1-2",
+    "source_path_or_url": "https://openstax.org/details/books/introduction-sociology-3e",
+    "local_file": "starter/data/sociology-3e_ch1-2.pdf",
+    "original_file": "starter/data/raw/introduction-sociology-3e_-_WEB.pdf (664 trang vật lý, không commit)",
+    "license_or_permission": "CC BY-NC-SA 4.0 (OpenStax; xác nhận tại trang PDF 4 của file gốc) - chỉ dùng phi thương mại, phải ghi nguồn",
+    "accessed_at": "2026-11-14",
+    "page_numbering": "page = số trang PDF của file gốc (không phải số in trong sách)",
+    "counting_rule": "Chương 1: trang PDF 19-37 (Intro đến 1.4); Chương 2: trang PDF 47-67 (Intro đến hết 2.3). Loại Key Terms, Summary, Quiz, References, mục lục, bìa.",
+    "content_page_count": 40,
+    "char_count": 124398,
+    "filter_fields": {
+      "chapter": "ch1|ch2, lấy từ ranh giới chương trong sách"
+    },
+    "pages": [
+      {
+        "page_id": "soc3e-p019",
+        "pdf_page": 19,
+        "chapter": "ch1",
+        "chars": 2053
+      },
+      {
+        "page_id": "soc3e-p020",
+        "pdf_page": 20,
+        "chapter": "ch1",
+        "chars": 2704
+      },
+      {
+        "page_id": "soc3e-p021",
+        "pdf_page": 21,
+        "chapter": "ch1",
+        "chars": 3265
+      },
+      {
+        "page_id": "soc3e-p022",
+        "pdf_page": 22,
+        "chapter": "ch1",
+        "chars": 3572
+      },
+      {
+        "page_id": "soc3e-p023",
+        "pdf_page": 23,
+        "chapter": "ch1",
+        "chars": 4003
+      },
+      {
+        "page_id": "soc3e-p024",
+        "pdf_page": 24,
+        "chapter": "ch1",
+        "chars": 1994
+      },
+      {
+        "page_id": "soc3e-p025",
+        "pdf_page": 25,
+        "chapter": "ch1",
+        "chars": 4240
+      },
+      {
+        "page_id": "soc3e-p026",
+        "pdf_page": 26,
+        "chapter": "ch1",
+        "chars": 4102
+      },
+      {
+        "page_id": "soc3e-p027",
+        "pdf_page": 27,
+        "chapter": "ch1",
+        "chars": 2978
+      },
+      {
+        "page_id": "soc3e-p028",
+        "pdf_page": 28,
+        "chapter": "ch1",
+        "chars": 4204
+      },
+      {
+        "page_id": "soc3e-p029",
+        "pdf_page": 29,
+        "chapter": "ch1",
+        "chars": 2464
+      },
+      {
+        "page_id": "soc3e-p030",
+        "pdf_page": 30,
+        "chapter": "ch1",
+        "chars": 3891
+      },
+      {
+        "page_id": "soc3e-p031",
+        "pdf_page": 31,
+        "chapter": "ch1",
+        "chars": 2493
+      },
+      {
+        "page_id": "soc3e-p032",
+        "pdf_page": 32,
+        "chapter": "ch1",
+        "chars": 4169
+      },
+      {
+        "page_id": "soc3e-p033",
+        "pdf_page": 33,
+        "chapter": "ch1",
+        "chars": 4266
+      },
+      {
+        "page_id": "soc3e-p034",
+        "pdf_page": 34,
+        "chapter": "ch1",
+        "chars": 3783
+      },
+      {
+        "page_id": "soc3e-p035",
+        "pdf_page": 35,
+        "chapter": "ch1",
+        "chars": 3134
+      },
+      {
+        "page_id": "soc3e-p036",
+        "pdf_page": 36,
+        "chapter": "ch1",
+        "chars": 3981
+      },
+      {
+        "page_id": "soc3e-p037",
+        "pdf_page": 37,
+        "chapter": "ch1",
+        "chars": 2383
+      },
+      {
+        "page_id": "soc3e-p047",
+        "pdf_page": 47,
+        "chapter": "ch2",
+        "chars": 1771
+      },
+      {
+        "page_id": "soc3e-p048",
+        "pdf_page": 48,
+        "chapter": "ch2",
+        "chars": 2790
+      },
+      {
+        "page_id": "soc3e-p049",
+        "pdf_page": 49,
+        "chapter": "ch2",
+        "chars": 3170
+      },
+      {
+        "page_id": "soc3e-p050",
+        "pdf_page": 50,
+        "chapter": "ch2",
+        "chars": 3376
+      },
+      {
+        "page_id": "soc3e-p051",
+        "pdf_page": 51,
+        "chapter": "ch2",
+        "chars": 4492
+      },
+      {
+        "page_id": "soc3e-p052",
+        "pdf_page": 52,
+        "chapter": "ch2",
+        "chars": 3999
+      },
+      {
+        "page_id": "soc3e-p053",
+        "pdf_page": 53,
+        "chapter": "ch2",
+        "chars": 2802
+      },
+      {
+        "page_id": "soc3e-p054",
+        "pdf_page": 54,
+        "chapter": "ch2",
+        "chars": 3448
+      },
+      {
+        "page_id": "soc3e-p055",
+        "pdf_page": 55,
+        "chapter": "ch2",
+        "chars": 2812
+      },
+      {
+        "page_id": "soc3e-p056",
+        "pdf_page": 56,
+        "chapter": "ch2",
+        "chars": 1190
+      },
+      {
+        "page_id": "soc3e-p057",
+        "pdf_page": 57,
+        "chapter": "ch2",
+        "chars": 3101
+      },
+      {
+        "page_id": "soc3e-p058",
+        "pdf_page": 58,
+        "chapter": "ch2",
+        "chars": 2237
+      },
+      {
+        "page_id": "soc3e-p059",
+        "pdf_page": 59,
+        "chapter": "ch2",
+        "chars": 2386
+      },
+      {
+        "page_id": "soc3e-p060",
+        "pdf_page": 60,
+        "chapter": "ch2",
+        "chars": 2360
+      },
+      {
+        "page_id": "soc3e-p061",
+        "pdf_page": 61,
+        "chapter": "ch2",
+        "chars": 3048
+      },
+      {
+        "page_id": "soc3e-p062",
+        "pdf_page": 62,
+        "chapter": "ch2",
+        "chars": 2979
+      },
+      {
+        "page_id": "soc3e-p063",
+        "pdf_page": 63,
+        "chapter": "ch2",
+        "chars": 2788
+      },
+      {
+        "page_id": "soc3e-p064",
+        "pdf_page": 64,
+        "chapter": "ch2",
+        "chars": 4420
+      },
+      {
+        "page_id": "soc3e-p065",
+        "pdf_page": 65,
+        "chapter": "ch2",
+        "chars": 4020
+      },
+      {
+        "page_id": "soc3e-p066",
+        "pdf_page": 66,
+        "chapter": "ch2",
+        "chars": 2863
+      },
+      {
+        "page_id": "soc3e-p067",
+        "pdf_page": 67,
+        "chapter": "ch2",
+        "chars": 667
+      }
+    ]
+  }
+]

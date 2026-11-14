@@ -1,0 +1,230 @@
+[
+  {
+    "id": "d01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "How do sociologists define sociology?",
+    "expected_answer": "The scientific and systematic study of groups and group interactions, societies and social interactions.",
+    "gold_source_id": "soc3e",
+    "gold_page": 20,
+    "evidence_quote": "Sociology is the scientific and systematic study of groups and group interactions, societies and social interactions",
+    "filter": null
+  },
+  {
+    "id": "d02",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Which book was the first to carry the word sociology in its title, and who wrote it?",
+    "expected_answer": "The Study of Sociology (1873) by Herbert Spencer.",
+    "gold_source_id": "soc3e",
+    "gold_page": 25,
+    "evidence_quote": "published The Study of Sociology, the first book with the term",
+    "filter": null
+  },
+  {
+    "id": "d03",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "What is the difference between consequences of a social process that are intended and those that are not?",
+    "expected_answer": "Manifest functions are sought or anticipated; latent functions are unsought consequences.",
+    "gold_source_id": "soc3e",
+    "gold_page": 30,
+    "evidence_quote": "Manifest functions are the consequences of a social process that are sought or anticipated, while latent functions are the unsought consequences of a social process",
+    "filter": null
+  },
+  {
+    "id": "d04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Who founded the first European university department of sociology, where, and when?",
+    "expected_answer": "Emile Durkheim, University of Bordeaux, 1895.",
+    "gold_source_id": "soc3e",
+    "gold_page": 26,
+    "evidence_quote": "establishing the first European department of sociology at the University of Bordeaux in 1895",
+    "filter": null
+  },
+  {
+    "id": "d05",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "What groundbreaking empirical study did W.E.B. Du Bois carry out in Philadelphia?",
+    "expected_answer": "A 1896-1897 study of the African American community in Philadelphia based on hundreds of interviews.",
+    "gold_source_id": "soc3e",
+    "gold_page": 27,
+    "evidence_quote": "His groundbreaking 1896-1897 study of the African American community in Philadelphia incorporated hundreds of interviews",
+    "filter": null
+  },
+  {
+    "id": "d06",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Which early American sociologist argued that people compare themselves to others to stay within social standards?",
+    "expected_answer": "Charles Horton Cooley (the looking-glass self).",
+    "gold_source_id": "soc3e",
+    "gold_page": 28,
+    "evidence_quote": "Charles Horton Cooley posited that individuals compare themselves to others in order to check themselves against social standards and remain part of the group",
+    "filter": null
+  },
+  {
+    "id": "d07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "How many steps does the scientific method have in sociological research?",
+    "expected_answer": "Six steps.",
+    "gold_source_id": "soc3e",
+    "gold_page": 48,
+    "evidence_quote": "It involves a series of six prescribed steps",
+    "filter": null
+  },
+  {
+    "id": "d08",
+    "split": "dev",
+    "type": "loc_metadata",
+    "question": "In the research process, what separates the independent variable from the dependent variable?",
+    "expected_answer": "The independent variable is the cause of the change; the dependent variable is the effect.",
+    "gold_source_id": "soc3e",
+    "gold_page": 50,
+    "evidence_quote": "an independent variable (IV), which is the cause of the change, and a dependent variable (DV), which is the effect",
+    "filter": {
+      "chapter": "ch2"
+    }
+  },
+  {
+    "id": "d09",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "What does validity mean for a research study, compared with reliability?",
+    "expected_answer": "Validity is how well the study measures what it was designed to measure; reliability is how likely results are to be replicated.",
+    "gold_source_id": "soc3e",
+    "gold_page": 51,
+    "evidence_quote": "validity, which refers to how well the study measures what it was designed to measure",
+    "filter": null
+  },
+  {
+    "id": "d10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "What is a random sample?",
+    "expected_answer": "A sample in which every person in the population has the same chance of being chosen.",
+    "gold_source_id": "soc3e",
+    "gold_page": 54,
+    "evidence_quote": "In a random sample, every person in a population has the same chance of being chosen for the study",
+    "filter": null
+  },
+  {
+    "id": "d11",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Why might participants act unnaturally when they know a study is observing them?",
+    "expected_answer": "The Hawthorne effect: people change behavior because they know they are being watched.",
+    "gold_source_id": "soc3e",
+    "gold_page": 63,
+    "evidence_quote": "which occurs when people change their behavior because they know they are being watched as part of a study",
+    "filter": null
+  },
+  {
+    "id": "d12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "What is a case study and what is its main criticism?",
+    "expected_answer": "An in-depth analysis of a single event, situation or individual; it cannot support generalized conclusions.",
+    "gold_source_id": "soc3e",
+    "gold_page": 62,
+    "evidence_quote": "A case study is an in-depth analysis of a single event, situation, or individual",
+    "filter": null
+  },
+  {
+    "id": "d13",
+    "split": "dev",
+    "type": "chi_tiet",
+    "question": "How many traffic citations did the fifteen drivers in the Heussenstamm bumper-sticker experiment collect?",
+    "expected_answer": "Thirty-three citations in seventeen days.",
+    "gold_source_id": "soc3e",
+    "gold_page": 64,
+    "evidence_quote": "the fifteen drivers had collected a total of thirty-three traffic citations",
+    "filter": null
+  },
+  {
+    "id": "d14",
+    "split": "dev",
+    "type": "loc_metadata",
+    "question": "What does Weber's concept of verstehen mean?",
+    "expected_answer": "Understanding a social world deeply from an insider's point of view.",
+    "gold_source_id": "soc3e",
+    "gold_page": 26,
+    "evidence_quote": "verstehen, a German word that means to understand in a deep way",
+    "filter": {
+      "chapter": "ch1"
+    }
+  },
+  {
+    "id": "d15",
+    "split": "dev",
+    "type": "loc_metadata",
+    "question": "Which practice should researchers follow so personal values do not distort how results are interpreted and published?",
+    "expected_answer": "Value neutrality: staying impartial, without bias or judgment, during the study and in publishing results.",
+    "gold_source_id": "soc3e",
+    "gold_page": 65,
+    "evidence_quote": "value neutrality, a practice of remaining impartial, without bias or judgment, during the course of a study and in publishing results",
+    "filter": {
+      "chapter": "ch2"
+    }
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "How did Erving Goffman compare social interaction to the theater?",
+    "expected_answer": "Dramaturgical analysis: individuals are actors in a play who follow cultural scripts.",
+    "gold_source_id": "soc3e",
+    "gold_page": 34,
+    "evidence_quote": "Goffman used theater as an analogy for social interaction",
+    "filter": null
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Whose research did the Supreme Court cite in the Brown v. Board of Education decision to show segregation harms minority students?",
+    "expected_answer": "Kenneth and Mamie Clark (the doll test).",
+    "gold_source_id": "soc3e",
+    "gold_page": 35,
+    "evidence_quote": "the Supreme Court cited the research of the husband-and-wife team of social scientists, Kenneth and Mamie Clark",
+    "filter": null
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "type": "loc_metadata",
+    "question": "What is a hypothesis in the six-step research process?",
+    "expected_answer": "An explanation for a phenomenon based on a conjecture about the relationship between it and one or more causal factors.",
+    "gold_source_id": "soc3e",
+    "gold_page": 50,
+    "evidence_quote": "A hypothesis is an explanation for a phenomenon based on a conjecture about the relationship between the phenomenon and one or more causal factors",
+    "filter": {
+      "chapter": "ch2"
+    }
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "What is the ASA?",
+    "expected_answer": "The American Sociological Association, the major professional organization of sociologists in North America.",
+    "gold_source_id": "soc3e",
+    "gold_page": 65,
+    "evidence_quote": "The American Sociological Association, or ASA, is the major professional organization of sociologists in North America",
+    "filter": null
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Why is secondary data analysis called nonreactive or unobtrusive research?",
+    "expected_answer": "Because it does not involve direct contact with subjects and does not alter their behavior.",
+    "gold_source_id": "soc3e",
+    "gold_page": 64,
+    "evidence_quote": "it is nonreactive research (or unobtrusive research), meaning that it does not involve direct contact with subjects",
+    "filter": null
+  }
+]

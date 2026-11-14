@@ -63,3 +63,11 @@ docker compose -p day6_student_starter stop
 5. Sau khi hoàn thiện, chạy `python -m src.run` từ thư mục `starter/`. Trước khi làm TODO, lệnh này **chủ động báo `NotImplementedError`**.
 
 Lưu code, cấu hình, kết quả và lệnh chạy để người chấm tái lập; không commit key, dữ liệu mật hoặc dữ liệu không có quyền chia sẻ.
+
+## Bài làm của Đặng Minh Thu (2A202604009)
+
+- Corpus: Introduction to Sociology 3e, chương 1–2 (40 trang), xem `data/manifest.json`.
+- Tái tạo dữ liệu: tải PDF gốc từ https://openstax.org/details/books/introduction-sociology-3e, đặt vào `starter/data/raw/introduction-sociology-3e_-_WEB.pdf` (file không commit vì 48 MB). Bản cắt `starter/data/sociology-3e_ch1-2.pdf` đã có sẵn trong repo.
+- Cài đặt và chạy: xem `starter/RUN.md`.
+- Kiểm chứng benchmark: `starter\.venv\Scripts\python.exe benchmark\verify_evidence.py` (cần PDF gốc).
+- Kết quả và phân tích: `starter/results/` (đặc biệt `ANALYSIS.md`); báo cáo: `report/individual/2A202604009_DangMinhThu.md`.

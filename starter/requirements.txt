@@ -2,3 +2,7 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+
+# Embedding local (cài thêm cho bài làm; phiên bản đã dùng khi chạy)
+sentence-transformers==6.3.0
+torch==2.15.0

@@ -1,0 +1,35 @@
+{
+  "A": {
+    "n_chunks": 287,
+    "total_chars": 133946,
+    "approx_tokens_chars_div4": 33486,
+    "min": 52,
+    "median": 500,
+    "mean": 466.7,
+    "p90": 500,
+    "max": 500,
+    "embed_seconds": 7.23,
+    "store_seconds": 0.13,
+    "rows_after_first_ingest": 287,
+    "rows_after_reingest": 287,
+    "reingest_duplicates": 0
+  },
+  "B": {
+    "n_chunks": 216,
+    "total_chars": 121488,
+    "approx_tokens_chars_div4": 30372,
+    "min": 132,
+    "median": 593.0,
+    "mean": 562.4,
+    "p90": 752,
+    "max": 794,
+    "embed_seconds": 4.73,
+    "store_seconds": 0.08,
+    "rows_after_first_ingest": 216,
+    "rows_after_reingest": 216,
+    "reingest_duplicates": 0
+  },
+  "C": {
+    "note": "dùng lại index B; chỉ thêm filter chapter cho câu có filter"
+  }
+}

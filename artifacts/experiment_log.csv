@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed-size theo ký tự,500,50,"document_id, source, page, chapter",none,BAAI/bge-small-en-v1.5 (384d local; cosine; query prefix BGE),"Chunk ngắn cố định cắt giữa ý nên evidence dễ bị tách, Hit thấp nhất",10/15,13/15,4/5,5/5,"287 chunk; 133946 ký tự; embed 7.23s; cost 0; d01 va d07 truot top-3 (d01: evidence bi cat qua ranh gioi chunk)"
+B,theo đoạn/câu (gộp tới giới hạn),800 (max),0,"document_id, source, page, chapter",none,BAAI/bge-small-en-v1.5 (384d local; cosine; query prefix BGE),"Chunk theo đoạn giữ trọn ý nên Hit@3 >= A",11/15,14/15,4/5,5/5,"216 chunk; 121488 ký tự; embed 4.73s; cost 0; d08 truot top-3 (evidence nam trong chunk khac cua cung trang)"
+C,như B (dùng lại index B),800 (max),0,"document_id, source, page, chapter","chapter=ch1|ch2, chỉ áp cho 4 câu có filter",BAAI/bge-small-en-v1.5 (384d local; cosine; query prefix BGE),"Loc chapter loai bo chunk sai chuong nen Hit@1 >= B",11/15,14/15,4/5,5/5,"Ket qua trung B: filter khong doi hang/top-3 o 4 cau co filter; so cau filter it nen khong ket luan"
